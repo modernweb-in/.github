@@ -30,11 +30,11 @@ https://youtube.com/@modernweb
 ✉️ Contact
 hello@modernweb.in
 
-## Repository Access
+<!-- ## Repository Access
 
 Some repositories are private and are available only to customers after purchasing the corresponding product.
 
-See https://modernweb.in/products for available products.
+See https://modernweb.in/products for available products. -->
 
 
 ----

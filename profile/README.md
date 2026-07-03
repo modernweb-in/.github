@@ -17,7 +17,7 @@ The goal is to go beyond tutorials by sharing complete implementations, engineer
 
 | Project | Status |
 |---------------------|--------------|
-| Modern Web Commerce |Comming Soon|
+| Modern Web Commerce |In Development; Expected Launch: July 2026|
 
 ## Links
 
